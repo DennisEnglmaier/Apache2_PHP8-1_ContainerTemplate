@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ubuntu:
+    container_name: [CONTAINERNAME]
+    build: './docker'
+    ports:
+      -  '[YOURPORT]:80'
+    volumes:
+      -  './www/:/var/www/'
