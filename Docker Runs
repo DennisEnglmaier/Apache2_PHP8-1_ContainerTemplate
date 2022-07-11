@@ -1,0 +1,2 @@
+Mysql 8.0:
+sudo docker run --name [CONTAINERNAME] -e MYSQL_ROOT_PASSWORD=rootroot -p [YOURPORT]:3306 -d mysql:latest
