@@ -16,3 +16,7 @@ to
 ```
 
 Clone your code in www folder
+
+Perhaps change the main Folder to the name of your choice
+
+> In the FurterCommands.txt you can find some useful commands for Mysql-Container and other stuff
