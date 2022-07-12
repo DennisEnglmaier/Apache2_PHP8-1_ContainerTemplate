@@ -7,6 +7,7 @@
   <body>
     <header>Insert here!</header>
     <main>your repository or the another magically stuff</main>
-    <footer></footer>
+    <footer><?php echo phpinfo()?></footer>
   </body>
 </html>
+
